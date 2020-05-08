@@ -1,3 +1,9 @@
+// input the test cases.
+// "<" and ">" as an input.
+// it gives the pair, it can be "<>", "<><>" and "<<>>".
+// it gives the number of opening and closing arrow brackets.
+
+
 #include<bits/stdc++.h>
 #include<iostream>
 #include<string.h>
